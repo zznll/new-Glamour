@@ -1,0 +1,93 @@
+.footer{
+    width: 100%;
+    height: 235px;
+    background-color: #f2f2f2;
+}
+.foot{
+    width: 1000px;
+    height: 205px;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 30px;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+.footadv{
+    width: 1000px;
+    height: 60px;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.footadv>ul>li{
+    display: block;
+    width: 165px;
+    height: 60px;
+    float: left;
+    overflow: hidden;
+    border-right: 1px solid #777;
+}
+.footadv>ul>li>a{
+    display: block;
+    width: 165px;
+    height: 60px;
+    overflow: hidden;
+    line-height: 95px;
+    text-align: center;
+    color: #000;
+}
+.a1{
+    background:url(../images/sprit.png) no-repeat -153px -146px;
+}
+.a1:hover {
+    background-position: -153px -264px;
+}
+.a2{
+    background:url(../images/sprit.png) no-repeat -543px -104px;
+}
+.a2:hover {
+    background-position: -543px 7px;
+}
+.a3{
+    background:url(../images/sprit.png) no-repeat -150px -382px;
+}
+.a3:hover {
+    background-position: -301px -229px;
+}
+.a4{
+    background:url(../images/sprit.png) no-repeat -419px 5px;
+}
+.a4:hover {
+    background-position: -419px -107px;
+}
+.a5{
+    background:url(../images/sprit.png) no-repeat -301px -346px;
+}
+.a5:hover {
+    background-position: -301px -459px;
+}
+.a6{
+    background:url(../images/sprit.png) no-repeat -301px -112px;
+}
+.a6:hover {
+    background-position: -301px 5px;
+}
+.footadv>ul>.rfoot{
+    border: none;
+}
+.footlink{
+    margin-bottom: 20px;
+}
+.footlink>a{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+a:hover, a:active {
+    text-decoration: none;
+    color: #db2726;
+}
+.foottext{
+    margin-bottom: 20px;
+    text-align: center;    
+}

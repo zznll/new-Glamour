@@ -1,0 +1,102 @@
+.banner{
+    width: 1000px;
+    margin: 0 auto;
+}
+.title1{
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+.titlebg{ 
+    background: url(../images/bg1.jpg) no-repeat;
+    height: 120px;   
+}
+.title1>p{
+    height: 100%;
+    text-align: center;
+    font-family: "Microsoft YaHei";
+    padding: 0 10px;
+    position: absolute;
+    left: 42.5%;
+    top:0;
+    line-height: 120px;
+    font-size: 32px;
+    color: rgb(62, 62, 62);
+}
+.contant1{
+    width: 1080px;
+    margin: 0 auto;
+}
+.content{
+    display: block;
+}
+.content>li{
+    width: 495px;
+    height: 452px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background: #fff;
+    float: left;
+    position: relative;
+}
+.list{
+    margin-left: 28px;
+}
+.listbox{
+    padding: 30px 0 0 30px;
+    position: rielative;
+    text-decoration: none;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+}
+.listbox>div{
+    font-size: 24px;
+    color: #000;
+    width: 350px;
+}
+.listbox>p{
+    font-size: 20px;
+    color: #000;
+    margin-top: 20px;
+}
+.listbox>span{
+    width: 84px;
+    height: 34px;
+    font-size: 18px;
+    line-height: 34px;
+    background: #000;
+    position: absolute;
+    top: 40px;
+    right: 30px;
+    color: #fff;
+    display: block;
+    text-align: center;
+}
+.item{
+    width: 202px;
+    height: 316px;
+    float: left;
+    margin-right: 30px;
+}
+.item>div>img{
+    width: 202px;
+    height: 270px;
+    display: block;
+}
+.item>div{
+    text-align: center;
+    padding-top: 20px;
+}
+.pic{
+    font-size: 18px;
+    color: #DD2828;
+    margin-right: 8px;
+}
+.prepic{
+    font-size: 14px;
+    color: #999;
+    text-decoration: line-through;
+}
