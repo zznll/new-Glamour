@@ -1,0 +1,3254 @@
+{
+    "num": "180",
+    "pages": "5",
+    "data": {
+        "1": [
+            {   
+                "id":"001",
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "id":"002",
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "id":"003",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "id":"004",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "id":"005",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "id":"006",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "id":"007",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "id":"008",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "id":"009",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "id":"010",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "id":"011",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "id":"012",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "id":"013",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "id":"014",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "id":"015",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "id":"016",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "id":"017",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "id":"018",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "id":"019",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "id":"020",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "id":"021",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "id":"022",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "id":"023",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "id":"024",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "id":"025",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "id":"026",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "id":"027",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "id":"028",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "id":"029",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "id":"030",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "id":"031",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "id":"032",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            }
+        ],
+        "2": [
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "id":"033",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "id":"034",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "id":"035",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "id":"036",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            }
+        ],
+        "3": [
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+           
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            }
+        ],
+        "4": [
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            }
+        ],
+        "5": [
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色水洗卷边牛仔长裤",
+                "price": "12880",
+                "preprice": "27,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00728/DO6-203-00728u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "蓝色破洞水洗男士牛仔裤",
+                "price": "1880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00814/DO6-203-00814u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "黑色表袋饰长袖男士西服",
+                "price": "6450",
+                "preprice": "21,500",
+                "size": [
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "bigimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448a.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448i.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-220-00448/DO6-220-00448u.jpg@50w_67h_2e_80q"
+                ]
+            },
+            {
+                "name": "黑色印花长袖男士衬衫",
+                "price": "2070",
+                "preprice": "6,900",
+                "size": [
+                    "40",
+                    "42",
+                    "44"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@235w_313h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-02221/e7f1f76017ac77d3e05b9f5b941ba8a2.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d312907d8af4e8144c.jpg@50w_67h_2e_80q",
+                    "https://cdn14.mei.com/product/DO6-206-02221/e7f1f76017ac77d35740522ea030105a.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "卡其色全棉印花圆领短袖男士T恤",
+                "price": "1080",
+                "preprice": "3,600",
+                "size": [
+                    "40",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01568/DO6-206-01568u.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            {
+                "name": "米白色印花翻领长袖衬衫",
+                "price": "2880",
+                "preprice": "7,600",
+                "size": [
+                    "39",
+                    "41",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@235w_313h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn14.mei.com/product/DO6-206-02272/e7f1f76017ac77d38df6f0a16a1ddabf.jpg@50w_67h_2e_80q",
+                    "https://cdn15.mei.com/product/DO6-206-02272/e7f1f76017ac77d36f0d9641b712cf4a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-02272/e7f1f76017ac77d3c249918a4d2157c7.jpg@50w_67h_2e_80q"
+                ] 
+            },
+            
+            {
+                "name": "深灰色八角领修身男士衬衫",
+                "price": "880",
+                "preprice": "3,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-206-01042/DO6-206-01042u.jpg@50w_67h_2e_80q"               
+                ] 
+            },
+            {
+                "name": "淡蓝色男士牛仔长裤",
+                "price": "8180",
+                "preprice": "33,600",
+                "size": [
+                    "39",
+                    "40",
+                    "42"
+                ],
+                "bigimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@235w_313h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@235w_313h_2e_80q"
+                ],
+                "smallimg": [
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721a.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721i.jpg@50w_67h_2e_80q",
+                    "https://cdn13.mei.com/product/DO6-203-00721/DO6-203-00721u.jpg@50w_67h_2e_80q"               
+                ] 
+            }
+        ]
+    }
+}

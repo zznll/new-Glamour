@@ -1,0 +1,421 @@
+.mainbox{
+    width: 1000px;
+    height: auto;
+    position: relative;
+    margin: 0 auto;
+}
+.titlebox{
+    width: 1000px;
+    height: 16px;
+    padding: 20px 0 20px 0;
+    position: relative;
+    border-bottom: 1px solid #e7e7e7;
+}
+.titlebox>ul>li{
+    float: left;
+    margin-right: 8px;
+    color: #999;    
+}
+.titlebox>ul>li>span{
+    margin-right: 8px; 
+}
+.timebox{
+    width: 250px;
+    height: 17px;
+    position: absolute;
+    right: 0;
+    top: 20px;
+}
+.time{
+    color: #999;
+    float: right;
+}
+.huo{
+    display: block;
+    padding-left: 22px;
+    height: 17px;
+    background: url(https://cdn11.mei.com/images/icon_countdown.gif) no-repeat;
+    background-position: 0 0;
+    font-weight: bold;
+    float: right;
+    margin-right: 5px;
+}
+h2{
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    font-size: 20px;
+    overflow: hidden;
+}
+#addc{
+    float: right;
+    font-size: 12px;
+}
+#addc>span{
+    font-size: 20px;
+    position: relative;
+    top: 2px;
+}
+#movec{
+    display: none;
+}
+.red{
+    color: #db2726;
+}
+.font{
+    font-size: 14px;
+    color: #db2726;
+}
+.box_effect {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding: 5px 0 0 5px;
+}
+.box_effect_bg {
+    width: 995px;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+.box_effect_content {
+    width: 973px;
+    padding: 10px;
+    height: auto;
+    overflow: hidden;
+    background-color: #fff;
+    border: 1px solid #e7e7e7;
+    position: relative;
+    bottom: 5px;
+    left: -5px;
+}
+.productslist.box_effect_content.box_effect_content_list {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+#xie{
+    width: auto;
+    height: 18px;
+    padding-left: 28px;
+    overflow: hidden;
+    white-space: normal;
+    margin-bottom: 20px;
+    background: url(https://cdn11.mei.com/images/icon_gift.gif) no-repeat;
+    line-height: 18px;
+}
+.productslist.box_effect_content .box_effect_content_list ul li span {
+    margin-right: 5px;
+}
+.cuttingline {
+    width: 100%;
+    height: 1px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    background-color: #e7e7e7;
+}
+h3{
+    font-size: 14px;
+    width: 100%;
+    margin-bottom: 25px;
+}
+.line{
+    line-height: 18px;
+}
+.classlist{
+    width: 1000px;
+    height: auto;
+    margin-top: 10px;
+}
+.classtop{
+    position: relative;
+    padding: 18px 0 8px 18px;
+    line-height: 24px;
+    background: #e7e7e7;
+}
+label{
+    float: left;
+    height: 24px;
+    width: 75px;
+}
+.cnm{
+    float: left;
+    width: 800px;
+}
+.cnm>li{
+    float: left;
+    height: 24px;
+    padding: 0 30px 0 10px;
+    margin: 0 20px 10px 0;
+    background: #000 url(https://cdn11.mei.com/images/icon_attr_remove.gif) no-repeat 100% 8px;
+    color: #fff;
+    cursor: pointer;
+}
+.cnm>li>span{
+    display: inline;
+    text-indent: 0;
+}
+.clearall{
+    position: absolute;
+    top: 18px;
+    right: 8px;
+    width: 90px;
+    height: 24px;
+    font-weight: normal;
+    color: #999;
+    cursor: pointer;
+}
+.classfoot{
+    border: 1px solid #e7e7e7;
+    position: relative;
+    padding: 18px 0 10px 17px;
+    margin-bottom: 10px;
+}
+.names{
+    float: left;
+    width: 75px;
+}
+.classnames{
+    float: left;
+    width: 825px;
+    max-height: 48px;
+    overflow-y: hidden;
+}
+.classnames>ul>li{
+    float: left;
+    width: 165px;
+    height: 24px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.classnames>ul>li>span{
+    display: inline-block;
+    width: 19px;
+    height: 24px;
+}
+.classnames>ul>li>span>input{
+    vertical-align: top; 
+}
+.movenavi{
+    width: 100%;
+    height: auto;
+}
+.movenav{
+    width: 1000px;
+    height: 45px;
+    padding: 10px 0px 0px;
+    margin: 0px auto;
+    background: url(https://cdn11.mei.com/images/nav_bg1.png) repeat-x;
+}
+.lmnav{
+    float: left;
+}
+.lmnav>a{
+    float: left;
+    margin: 0 9px 0 0;
+    width: 98px;
+    height: 28px;
+    line-height: 28px;
+    border: 1px solid #e7e7e7;
+    font-weight: normal;
+    text-indent: 26px;
+}
+.moren{
+    background: #999;
+}
+.morenpic{
+    background: #fff url(https://cdn11.mei.com/images/sorter_bg.gif) no-repeat -1px -1px;
+}
+.rmnav{
+    float: right;
+}
+.pag{
+    float: right;
+    padding: 0 0 0 10px;
+}
+.pag1{
+    float: left;
+    font-size: 16px;
+    margin: 9px 12px 0 0;
+}
+.pag2{
+    float: left;
+    width: 28px;
+    height: 28px;
+    border: 1px solid #e7e7e7;
+    margin: 0 5px 0 0;
+    text-align: center;
+    text-indent: -999em;
+    background: url(https://cdn11.mei.com/images/pager.gif) -40px 0 no-repeat;
+}
+.pag3{
+    float: left;
+    width: 28px;
+    height: 28px;
+    border: 1px solid #e7e7e7;
+    margin: 0 5px 0 0;
+    text-align: center;
+    text-indent: -999em;
+    background: url(https://cdn11.mei.com/images/pager.gif) -40px -40px no-repeat;
+}
+.count{
+    margin-top: 10px;
+    display: block;
+    float: right;
+    background: #fff;
+}
+.listmainbox{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+}
+.listmain>li{
+    width: 235px;
+    height: auto;
+    float: left;
+    text-align: left;
+    line-height: 18px;
+    white-space: nowrap;
+    margin-bottom: 20px;
+    margin-right: 8px;
+    margin-left: 7px;
+    position: relative;
+}
+.listmain>li>img{
+    width: 235px;
+    height: 313px;
+}
+.listmain>li>a{
+    display: block;
+    margin-bottom: 5px;
+}
+.redpic{
+    color: #db2726;
+    display: block;
+    float: left;
+    font-size: 18px;
+   
+}
+.underpic{
+    float: left;
+    display: block;
+    margin-top: 3px;
+    margin-left: 8px;
+    text-decoration: line-through;
+}
+.listmain>li>button{
+    display: block;
+    width: 235px;
+    height: 40px;
+    margin: 5px 0 0 0;
+    float: left;
+}
+.imgshowbox{
+    position: absolute;
+    left: 0;
+    top: 285px;
+    background: #fff;
+    display: none;
+}
+.imgtop{
+    width: 235px;
+    height: auto;
+    position: relative;
+    z-index: 2;
+    background-color: #ccc;
+    padding-bottom: 10px;
+}
+.imgtop>li{
+    width: 40px;
+    height: 30px;
+    margin-left: 8px;
+    margin-right: 5px;
+    margin-top: 15px;
+    float: left;
+    background: #fff;
+    border: 1px solid #666;
+    text-align: center;
+    line-height: 30px;
+}
+.smallimg{
+    background: #fff;
+    margin-top: 10px;
+}
+.smallimg>img{
+    width: 50px;
+    height: 60px;
+    border: solid 1px #999;
+    margin-bottom: 5px;
+}
+.randerpagbox{
+    z-index: 10;
+    height: 24px;
+    margin: 20px 0px 40px 0px;
+}
+.randerpag{
+    height: 24px;
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+.randerpag>span{
+    height: 22px;
+    width: 54px;
+    line-height: 22px;
+    font-weight: normal;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(231, 231, 231);
+    border-image: initial;
+    margin: 0px 5px 0px 0px;
+}
+.pre{
+    position: absolute;
+    left: 250px;
+}
+.next{
+    position: absolute;
+    left: 460px; 
+}
+.paga{
+    height: 22px;
+    position: absolute;
+    left: 310px;
+}
+.paga>span{
+    float: left;
+    width: 22px;
+    height: 22px;
+    line-height: 22px;
+    font-weight: normal;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(231, 231, 231);
+    border-image: initial;
+    margin: 0px 5px 0px 0px;
+}
+.bspan{
+    background: #000;
+    color: #fff;
+}
+.inputpag{
+    position: absolute;
+    left: 540px;
+    font-size: 13px;
+}
+.inputpag>input{
+    width: 40px;
+    height: 18px;
+}
+.inputpag>button{
+    display: inline-block;
+    width: 42px;
+    height: 24px;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    background: rgb(0, 0, 0);
+    border: none;
+}

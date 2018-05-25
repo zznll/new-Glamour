@@ -6,28 +6,33 @@ function Enroll() {
     this.init();
 }
 Enroll.prototype = {
-    init() { 
+    init() {
         // console.log(this.flag)
         this.checke.on("click", function () {
-            this.flag=$(this.checke).is(":checked");
-            console.log(this.flag);
+            this.flag = $(this.checke).is(":checked");
+            //console.log(this.flag);
             this.check = $(".disagree");
             this.add_rsg();
             //return this.flag;
+            if (this.flag) {
+                this.btn.click(function () {
+                    this.rsg_test()
+                    this.act = $(".act_error")
+                    this.pwd = $(".Pwd_error")
+                    this.add_css();
+                    if (!!this.phonetest && !!this.pwdtest) {
+                        //console.log(1);
+                        this.add_database();
+                    }
+                }.bind(this));          
+            } else {
+                this.btn.unbind();
+                  // this.btn[0].onclick = this.zhuce;
+                // this.btn[0].onclick = null;解除绑定事件；
+            }
         }.bind(this))
         console.log(this.flag);
-        if(true){
-            this.btn.click(function () {
-                this.rsg_test()
-                this.act = $(".act_error")
-                this.pwd = $(".Pwd_error")
-                this.add_css();
-                if (!!this.phonetest && !!this.pwdtest) {
-                    //console.log(1);
-                    this.add_database();
-                }
-            }.bind(this))
-        }   
+
     },
     rsg_test() {
         this.phoneval = this.phone.val();
@@ -45,8 +50,6 @@ Enroll.prototype = {
             $(this.act).css("display", "none");
         }
         if (!this.pwdtest) {
-            //console.log(this.act);
-            //console.log(this.pwd)
             $(this.pwd).css("display", "block");
         } else {
             $(this.pwd).css("display", "none");

@@ -3,12 +3,13 @@ function Enroll() {
     this.phone = $(".hao");
     this.password = $(".pwd");
     this.checke = $(".check");
-    this.ul = $(".change")
+    this.ul = $(".change");
+    this.rl = $(".rlogin");
+    this.rl.hide();
     this.init();
 }
 Enroll.prototype = {
     init() {
-        // console.log(this.flag)
         this.checke.on("click", function () {
             this.flag = $(this.checke).is(":checked");
             console.log(this.flag);
@@ -17,23 +18,22 @@ Enroll.prototype = {
             //return this.flag;
         }.bind(this))
 
-        this.ul.children().on("click", function () {
-            this.change_css();
-        }.bind(this))
+        // this.ul.children().on("click", function () {
+        //     this.change_css();
+        // }.bind(this))
 
-        console.log(this.ul.children());
-        if (true) {
-            this.btn.click(function () {
-                this.rsg_test()
-                this.act = $(".act_error")
-                this.pwd = $(".Pwd_error")
-                this.add_css();
-                if (!!this.phonetest && !!this.pwdtest) {
-                    //console.log(1);
-                    this.add_database();
-                }
-            }.bind(this))
-        }
+        this.ul.children().on("click",$.proxy(this.change_css,this))
+
+        this.btn.click(function () {
+            this.rsg_test()
+            this.act = $(".act_error")
+            this.pwd = $(".Pwd_error")
+            this.add_css();
+            if (!!this.phonetest && !!this.pwdtest) {
+                //console.log(1);
+                this.add_database();
+            }
+        }.bind(this))
     },
     rsg_test() {
         this.phoneval = this.phone.val();
@@ -75,19 +75,20 @@ Enroll.prototype = {
             );
         }
     },
-    change_css() {
-        this.ll=$(".llogin");
-        this.rl=$(".rlogin");
-        $.each(this.ul.find("a"),function(index,item){
-            $(item).removeClass("active");
-            if(index==0){
-                this.rl.hide();
-                this.ll.show();
-            }else if(index==1){
-                this.ll.hide();
-                this.rl.show();  
-            }   
-        }.bind(this));
+    change_css(event) {
+        this.ll = $(".llogin");
+        this.rl = $(".rlogin");
+        $(event.target).parent().siblings().children("").removeClass("active")
+        var index = $(event.target).data("index");
+        if (index == 1) {
+            this.ll.hide();
+            this.rl.show ();
+            // console.log($(item).index())      
+        } else if (index == 0) {
+            this.rl.hide();
+            this.ll.show();
+            console.log(this.rl.hide(), this.ll.show())
+        }
         $(event.target).addClass("active")
     },
     add_database() {

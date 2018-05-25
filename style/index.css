@@ -158,6 +158,7 @@ body{font:12px/1em "微软雅黑"; color:#000;}
 /* 导航 */
 .navi{
     background: #000;
+    width: 100%;
 }
 .nav{
     width: 1000px;
@@ -309,6 +310,7 @@ body{font:12px/1em "微软雅黑"; color:#000;}
 .shopnav{
     float: right;
     line-height: 42px;
+    position: relative;
 }
 .shopnav>ul>li{
     color: #fff;
@@ -330,6 +332,25 @@ body{font:12px/1em "微软雅黑"; color:#000;}
 .shopnav>ul>li>span{
     margin-left: 15px;
     margin-right: 15px;
+}
+.shopsmallcar{
+    width: 285px;
+    height: auto;
+    -moz-box-shadow: 0 1px 6px #999;
+    box-shadow: 0 1px 6px #999;
+    background-color: #fff;
+    position: absolute;
+    right: -80px;
+    top: 42px;
+    z-index: 9;
+    display: none;
+}
+.small_list{
+    width: 245px;
+    height: auto;
+    overflow: hidden;
+    margin:15px 0 15px 20px;
+    text-align: center;
 }
 /* 轮播图 */
 .banner{
@@ -437,6 +458,40 @@ h3{
     padding: 0 10px;
     line-height: 40px;
     background-color: #f2f2f2;
+}
+.boximg{
+    position: relative;
+    width: 320px;
+    height: 192px;
+    overflow: hidden;
+}
+.boximg::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+}
+.boximg>div{
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+    font-size: 14px;
+    line-height: 192px;
+}
+.boximg>span{
+    display: none;
+}
+.pop-css{
+    width: 320px;
+    height: 192px;
+    background: rgba(0,0,0,.5);
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-Index: 999;
 }
 .boximg>img{
     display: block;
@@ -737,4 +792,63 @@ a:hover, a:active {
 .foottext{
     margin-bottom: 20px;
     text-align: center;    
+}
+.returntopbox{
+    width: 98px;
+    height: 300px;
+    position: fixed;
+    right: 90px;
+    bottom: 50px;
+    overflow: hidden;
+    z-index: 9999;
+    text-align: center;
+}
+.apptop{
+    overflow: hidden;
+    background-color: #000;
+    font-size: 14px;
+    color: #fff;
+    padding: 5px 0;    
+}
+.apptop>span{
+    color: red;
+    font-size: 16px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: -3px;
+}
+.appload{
+    border: 1px solid #ccc;
+    overflow: hidden;
+    margin: 0;
+    background-color: #fff;
+    padding: 5px 0;
+}
+.appload>span{
+    line-height: 22px;
+    display: inline-block;
+}
+.appload>img{
+    width: 75px;
+    height: 75px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.returntop{
+    height: 24px;
+    overflow: hidden;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-top: 0;
+    display: none;
+}
+.returntop>a{
+    display: block;
+    width: 100%;
+    height: 24px;
+    overflow: hidden;
+    text-indent: -9999px;
+    background: url(../images/sprit.png)  no-repeat -564px -428px;
+    
 }
