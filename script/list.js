@@ -49,7 +49,7 @@ Pag.prototype = {
                     <a href="###">${item.name}</a>
                     <span class="redpic">￥${item.price}</span>
                     <span class="underpic">￥${item.preprice}</span>
-                    <button class="addcarbtn" data-id=${item.id}>加入购物车</button>
+                    <button class="addcarbtn" data-id=${item.id} data-pic=${item.price}>加入购物车</button>
                     <div class="imgshowbox">
                             <ul class="imgtop clear">
                                 <li class="m1">${item.size[0]}</li>
